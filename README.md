@@ -10,7 +10,7 @@ Considering the correlation between C&S channels, we propose a two-stage frame s
     <img src="./assets/block_diagram.png" style="width:80%;" />
 </div>
 
-For more information, please visit our website [gaozhen16.github.io](https://gaozhen16.github.io/)
+For more information, please visit our website: [gaozhen16.github.io](https://gaozhen16.github.io/)
 
 If you have any questions, you can contact me by email: yifeizhang2000@foxmail.com
 
