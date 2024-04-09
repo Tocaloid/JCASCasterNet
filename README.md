@@ -14,6 +14,10 @@ For more information, please visit our website gaozhen16.github.io
 
 If you have any questions, you can contact me by email: yifeizhang2000@foxmail.com
 
+## Training
+
+Run the main function in `main.py` to start training. The core code of JCASCasterNet is in `train/model.py`.
+
 ## License
 
 All code within this repository is under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
