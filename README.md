@@ -7,7 +7,7 @@ This repository contains the source code for the following paper [1].
 Considering the correlation between C&S channels, we propose a two-stage frame structure along with the channel semantic learning based JCASCasterNet, which yield gains in both extraction and reconstruction of channel semantic.
 
 <div align=center>
-<img src="./assets/block_diagram.png" style="width:80%;" />
+    <img src="./assets/block_diagram.png" style="width:100%;" />
 </div>
 
 For more information, please visit our website gaozhen16.github.io
